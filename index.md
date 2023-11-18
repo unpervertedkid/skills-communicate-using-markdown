@@ -19,3 +19,13 @@ fn example() {
   println!("Hey, you can see this in markdown!");
 }
 ```
+
+### Task Lists in markdown
+
+These are the things I have done so far in this PR:
+
+- [x] Headers
+- [x] Adding images
+- [x] Adding code
+- [x] Adding task lists
+- [ ] Code editing( Isn't supported in markdown lol)
